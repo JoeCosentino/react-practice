@@ -9,6 +9,10 @@ const LOCAL_STORAGE_KEY = 'cookingWithReact.recipes'
 
 function App() {
 
+  useEffect(() => {
+    document.title = 'Cooking With React'
+  })
+
   const [selectedRecipeId, setSelectedRecipeId] = useState()
 
   const [recipes, setRecipes ] = useState(() => {
