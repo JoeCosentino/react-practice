@@ -5,7 +5,7 @@ This is a README file for my WebDev Portfolio, completed by Joey Cosentino
 ## Important Links
 
 * main repository link: https://github.com/JoeCosentino/react-practice
-* Deployed URL: https://joecosentino.github.io/test-wd-portfolio/
+* Deployed URL: https://joecosentino.github.io/react-practice/
 
 ## Description
 
